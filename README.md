@@ -7,10 +7,10 @@
 * [Docker](https://docs.docker.com/get-docker/)
 * [docker-compose](https://docs.docker.com/compose/install/standalone/)
 
-## Usage
+## Start development server
 
 ```
-django-admin startproject --template https://github.com/jayamorin/django-api-template/archive/refs/heads/main.zip --name=main DJANGO_PROJECT
+django-admin startproject --template https://github.com/jayamorin/django-app-template/archive/refs/heads/main.zip --name=main DJANGO_PROJECT
 ```
 
 ## Start development server
